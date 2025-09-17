@@ -45,10 +45,10 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/vimal-malam/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:malamvimal14321432@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>  
