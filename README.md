@@ -5,18 +5,19 @@
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Banner"/>
 </p>
 
-
-- 🎓 **B.Sc.IT Graduate** from *Bhakta Kavi Narsinh Mehta University (BKNMU), Junagadh*  
-- 💻 **Frontend Developer Intern** at *TechRover Solutions*  
-- 🌱 Currently sharpening my skills in **React.js & Modern Web Development**  
-- 🎯 Aspiring to grow into a **professional Frontend Engineer**  
-- ⚡ Fun fact: I love building apps that make life easier & more interactive ✨  
+- 💻 Full Stack Developer with a passion for building scalable and high-quality web applications
+- 🚀 Working at **Excelsior Technologies®**, delivering modern web solutions from frontend to backend
+- ⚛️ Experienced with **React.js**, **Node.js**, **Express.js**, **MySQL**, **JavaScript**, and REST APIs
+- 🌱 Constantly learning new technologies and following industry best practices
+- 🎯 Dedicated to writing clean, maintainable code and crafting exceptional user experiences
+- 🤝 Enjoy collaborating, solving challenging problems, and building products that create real value
+- ✨ Turning ideas into fast, responsive, and impactful digital experiences
 
 ---
 
