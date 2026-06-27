@@ -73,9 +73,7 @@ I enjoy transforming ideas into real products through clean architecture, effici
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vimalmalam&theme=tokyonight&no-frame=true&margin-w=10"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=vimalmalam&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
