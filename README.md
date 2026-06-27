@@ -42,10 +42,6 @@ I enjoy transforming ideas into real products through clean architecture, effici
 
 ---
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" />
-</p>
-
 # 🛠 Tech Stack
 
 <p align="center">
@@ -55,10 +51,6 @@ I enjoy transforming ideas into real products through clean architecture, effici
 </p>
 
 ---
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" />
-</p>
 
 # 📊 GitHub Statistics
 
@@ -78,10 +70,6 @@ I enjoy transforming ideas into real products through clean architecture, effici
 
 ---
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" />
-</p>
-
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -91,10 +79,6 @@ I enjoy transforming ideas into real products through clean architecture, effici
 </p>
 
 ---
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" />
-</p>
 
 # 🤝 Connect With Me
 
