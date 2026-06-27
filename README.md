@@ -9,76 +9,62 @@ Full Stack Web Developer from India 🇮🇳
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MySQL;Building+Scalable+and+User-Centric+Web+Applications;Always+Learning+%7C+Always+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MySQL;Building+Modern+and+Scalable+Web+Applications;Clean+Code+%E2%80%A2+Continuous+Learning+%E2%80%A2+Innovation" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/vimalmalam">
-    <img src="https://komarev.com/ghpvc/?username=vimalmalam&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=vimalmalam&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# 💫 About Me
+<p align="center">
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" />
+</p>
 
-I'm a **Full Stack Web Developer** passionate about building modern, scalable, and user-focused web applications.
+# 👨‍💻 About Me
 
-Currently working as a **Full Stack Developer at Excelsior Technologies®**, where I build production-ready applications using modern JavaScript technologies.
+I'm a **Full Stack Web Developer** passionate about building scalable, high-performance, and user-friendly web applications.
 
-I enjoy solving real-world problems, writing clean and maintainable code, and continuously learning better ways to design and develop software.
+Currently working at **Excelsior Technologies®**, where I develop production-ready applications using modern web technologies.
 
-### What I Do
+I enjoy transforming ideas into real products through clean architecture, efficient code, and intuitive user experiences.
 
-- 💼 Full Stack Web Development
-- ⚛️ Responsive Frontend Development using React.js
-- 🚀 Backend Development with Node.js & Express.js
-- 🗄️ Database Design using MySQL
+### Highlights
+
+- 💼 Full Stack Developer
+- 🚀 Building production-ready web applications
+- ⚛️ React.js • Node.js • Express.js • MySQL
 - 🔗 REST API Development & Integration
-- 🎯 Building scalable and maintainable applications
-- 🌱 Learning advanced software architecture and modern development practices
+- 🌱 Continuously learning modern technologies
+- 💡 Passionate about clean code & software architecture
+- 🤝 Open to collaboration and exciting opportunities
 
 ---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" />
+</p>
 
 # 🛠 Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,vite,nodejs,express,mysql,git,github,postman,vscode,npm&perline=7"/>
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
 ---
 
-# 📈 GitHub Statistics
+<p align="center">
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" />
+</p>
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vimalmalam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vimalmalam&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalmalam&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -92,17 +78,25 @@ I enjoy solving real-world problems, writing clean and maintainable code, and co
 
 ---
 
-# 🏆 GitHub Achievements
+<p align="center">
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" />
+</p>
+
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vimalmalam&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vimalmalam&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
 ---
 
-# 🤝 Let's Connect
+<p align="center">
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" />
+</p>
+
+# 🤝 Connect With Me
 
 <p align="center">
 
@@ -118,12 +112,8 @@ I enjoy solving real-world problems, writing clean and maintainable code, and co
 
 ---
 
-# 💭 Developer Philosophy
-
-> *"Great software isn't just code that works—it's code that is clean, scalable, maintainable, and built with the user in mind."*
-
----
-
 <p align="center">
-Thanks for visiting my profile! ⭐
+
+> **"Great software is built through continuous learning, clean architecture, and a passion for solving real-world problems."**
+
 </p>
